@@ -1,0 +1,363 @@
+waktu,makanan rekomendasi,jenis makanan,rasa makanan,tingkat keasamaan,protein_(g),karbohidrat_(g),tingkat bahaya
+Siang,Roti Putih,Panggang,Manis,Rendah,8.00,50.00,Rendah
+Malam,Amparan Tatak,Kuah,Manis,Rendah,1.30,34.00,Rendah
+Malam,Apang Kue,Panggang,Manis,Rendah,3.00,46.70,Sedang
+Malam,"Apem, kue ",Panggang,Manis,Rendah,2.00,33.90,Rendah
+Pagi,Biskuit ,Panggang,Manis,Rendah,6.90,75.10,Rendah
+Pagi,"Bakpia, kue ",Panggang,Manis,Rendah,8.70,44.10,Rendah
+Siang,Bakwan ,Goreng,Gurih,Rendah,8.20,39.00,Rendah
+Malam,Bantal,Goreng,Manis,Sedang,3.30,43.50,Rendah
+Pagi,Baruasa,Panggang,Manis,Rendah,6.50,79.30,Sedang
+Siang,Batar daan,Panggang,Manis,Rendah,2.20,19.60,Rendah
+Pagi,Bika ambon,Panggang,Manis,Tinggi,2.10,44.40,Tinggi
+Siang,Bingka,Panggang,Manis,Sedang,5.30,39.10,Tinggi
+Malam,Bobengka,Panggang,Manis,Tinggi,5.30,45.20,Tinggi
+Pagi,Bolu peca,Panggang,Manis,Tinggi,3.30,35.60,Tinggi
+Pagi,Brem,Panggang,Manis,Tinggi,3.40,58.00,Tinggi
+Siang,Cake tape,Panggang,Manis,Tinggi,4.90,50.10,Tinggi
+Malam,Cangkuning,Panggang,Manis,Rendah,2.80,31.40,Rendah
+Pagi,Dodol bali,Panggang,Manis,Tinggi,3.70,65.90,Tinggi
+Siang,Dodol galamai,Panggang,Manis,Tinggi,0.40,76.10,Tinggi
+Pagi,Dodol kedondong,Panggang,Manis,Tinggi,1.90,63.80,Tinggi
+Malam,Dodol manado,Panggang,Manis,Tinggi,4.30,51.90,Tinggi
+Pagi,Emping beras,Panggang,Asin,Sedang,10.60,85.30,Rendah
+Siang,Gemblong,Goreng,Manis,Sedang,1.70,55.50,Sedang
+Malam,Gendar goreng,Goreng,Gurih,Tinggi,6.40,32.00,Tinggi
+Pagi,Intip goreng,Goreng,Gurih,Tinggi,7.60,62.30,Tinggi
+Siang,Jagung gerontol,Panggang,Gurih,Rendah,2.70,33.30,Rendah
+Malam,Jagung titi,Panggang,Manis,Sedang,9.40,79.10,Tinggi
+Pagi,Japilus,Panggang,Manis,Tinggi,1.20,67.30,Tinggi
+Siang,Kakicak,Panggang,Manis,Sedang,3.40,36.70,Tinggi
+Malam,Kambose,Panggang,Manis,Sedang,3.00,32.60,Tinggi
+Pagi,Kapusa,Panggang,Manis,Sedang,4.40,27.80,Tinggi
+Siang,Keddo bodong,Panggang,Manis,Tinggi,4.60,55.20,Tinggi
+Malam,"Kelepon, kue",Panggang,Manis,Tinggi,3.70,41.80,Tinggi
+Pagi,Kereput,Panggang,Manis,Sedang,4.80,51.10,Tinggi
+Pagi,Ketoprak,Goreng,Asin,Sedang,7.90,13.00,Tinggi
+Siang,Ketupat kandangan,Kuah,Gurih,Tinggi,2.20,13.40,Tinggi
+Malam,Koya,Panggang,Manis,Tinggi,4.20,77.50,Tinggi
+Pagi,Koya mirasa,Panggang,Manis,Tinggi,8.00,82.20,Tinggi
+Siang,Koyabu,Panggang,Manis,Sedang,3.40,47.20,Tinggi
+Malam,Kue ali,Panggang,Manis,Tinggi,3.80,64.50,Tinggi
+Pagi,Kue bangen,Panggang,Manis,Tinggi,3.30,74.20,Tinggi
+Siang,Kue gelang,Panggang,Manis,Sedang,5.80,70.00,Tinggi
+Malam,Kue jahe,Panggang,Manis,Tinggi,1.60,84.60,Tinggi
+Pagi,Kue kelapa,Panggang,Manis,Sedang,5.60,47.50,Tinggi
+Siang,Kue koa,Panggang,Manis,Tinggi,4.80,79.30,Tinggi
+Malam,Kue ku temu,Panggang,Manis,Sedang,3.50,49.60,Tinggi
+Pagi,Kue lumpur,Panggang,Manis,Sedang,3.60,44.10,Tinggi
+Siang,Kue pelita,Panggang,Manis,Sedang,5.30,17.60,Rendah
+Malam,Kue putu cangkir,Panggang,Manis,Tinggi,5.30,54.90,Tinggi
+Pagi,Kue sus,Panggang,Manis,Tinggi,7.50,24.80,Tinggi
+Siang,Kue thipan,Panggang,Manis,Sedang,2.90,49.50,Tinggi
+Malam,Laksa/Putu mayang,Kuah,Gurih,Sedang,1.70,21.10,Rendah
+Pagi,Lapis legit,Panggang,Manis,Sedang,6.60,55.50,Tinggi
+Siang,Lupis ketan,Panggang,Manis,Rendah,1.80,34.50,Rendah
+Malam,Manan samin,Panggang,Manis,Sedang,3.40,50.60,Tinggi
+Malam,Martabak india,Panggang,Gurih,Sedang,4.50,24.30,Sedang
+Malam,Martabak mesir,Panggang,Gurih,Sedang,5.10,45.00,Sedang
+Pagi,Masekat,Panggang,Manis,Tinggi,2.10,74.10,Tinggi
+Malam,Mie aceh Kuah,Kuah,Gurih,Sedang,3.00,18.10,Rendah
+Malam,Mie ayam,Kuah,Gurih,Sedang,6.20,10.50,Rendah
+Malam,Mie bakso,Kuah,Gurih,Sedang,5.30,16.40,Rendah
+Malam,Mie celon,Kuah,Gurih,Sedang,3.00,17.80,Rendah
+Malam,Mie pangsit basah,Kuah,Gurih,Sedang,5.90,9.40,Rendah
+Siang,Nasi gemuk,Goreng,Gurih,Sedang,3.80,24.40,Tinggi
+Malam,Nasi gurih,Goreng,Gurih,Sedang,4.70,26.00,Tinggi
+Malam,Nasi minyak,Goreng,Gurih,Sedang,3.50,37.10,Tinggi
+Siang,Nasi rames,Goreng,Gurih,Sedang,10.30,19.10,Tinggi
+Pagi,Nopia spesial ,Panggang,Manis,Rendah,5.30,74.30,Rendah
+Siang,Onde0onde ,Goreng,Manis,Rendah,4.00,57.90,Rendah
+Siang,Padamaran ,Kuah,Manis,Rendah,3.90,18.80,Rendah
+Siang,Pastel ,Goreng,Gurih,Rendah,4.50,42.40,Sedang
+Malam,Pulut ,Kuah,Manis,Rendah,2.60,44.40,Rendah
+Pagi,Pundut nasi ,Kuah,Manis,Rendah,1.90,15.10,Rendah
+Pagi,Putri selat ,Kuah,Manis,Rendah,2.20,23.80,Rendah
+Siang,Putu sopa ,Panggang,Manis,Rendah,3.30,41.10,Rendah
+Siang,Renggi goreng ,Goreng,Gurih,Rendah,4.70,64.10,Sedang
+Pagi,Roti boong ,Panggang,Manis,Rendah,5.50,43.30,Rendah
+Pagi,Roti warna sawo matang ,Panggang,Manis,Rendah,7.90,49.70,Rendah
+Siang,Sarimuka ,Kuah,Manis,Rendah,2.30,32.90,Sedang
+Siang,Spaghetti ,Goreng,Gurih,Rendah,7.40,22.60,Rendah
+Malam,Srikaya ketan ,Kuah,Manis,Rendah,2.70,49.10,Rendah
+Malam,Sunduk lawang ,Kuah,Manis,Rendah,1.90,32.40,Sedang
+Siang,Suwir-suwir ,Goreng,Gurih,Rendah,0.50,84.20,Sedang
+Pagi,Tipa-tipa ,Panggang,Manis,Rendah,6.20,79.80,Sedang
+Pagi,Wajit camilan ,Goreng,Manis,Rendah,6.30,63.30,Rendah
+Pagi,Widaran ,Goreng,Manis,Rendah,1.30,80.70,Sedang
+Pagi,Wingko babat ,Panggang,Manis,Rendah,3.20,51.40,Sedang
+Pagi,Yangko ,Goreng,Manis,Rendah,3.00,58.10,Sedang
+Malam,"Batatas tali, ubi, Kuah ",Kuah,Manis,Rendah,2.40,42.20,Rendah
+Malam,"Ganyong, Kuah ",Kuah,Gurih,Rendah,0.80,23.80,Rendah
+Pagi,Bubur sagu ,Kuah,Manis,Rendah,0.20,33.00,Rendah
+Siang,Cassavastick ,Goreng,Gurih,Rendah,0.80,17.20,Rendah
+Siang,Ceriping getuk singkong ,Goreng,Manis,Rendah,1.20,67.70,Sedang
+Siang,Gatot ,Goreng,Manis,Rendah,1.30,83.80,Rendah
+Siang,Geblek ,Goreng,Gurih,Rendah,0.40,44.40,Sedang
+Siang,Getuk goreng ,Goreng,Manis,Rendah,1.30,74.30,Sedang
+Pagi,Getuk singkong ,Goreng,Manis,Rendah,0.50,47.40,Sedang
+Siang,Kecimpring singkong goreng ,Goreng,Gurih,Rendah,1.20,73.00,Sedang
+Siang,Keremes ,Goreng,Gurih,Rendah,1.60,64.40,Sedang
+Siang,Keripik gadung ,Goreng,Gurih,Rendah,2.80,76.00,Sedang
+Siang,Keripik kentang ,Goreng,Asin,Rendah,2.70,67.10,Sedang
+Siang,Keripik singkong ,Goreng,Asin,Rendah,0.90,72.00,Sedang
+Siang,Keripik singkong berbumbu ,Goreng,Gurih,Rendah,2.20,73.60,Sedang
+Siang,Keripik ubi ,Goreng,Gurih,Rendah,0.20,67.60,Sedang
+Siang,Kerupuk cumi goreng ,Goreng,Gurih,Rendah,6.90,71.30,Sedang
+Siang,Kerupuk kemplang goreng ,Goreng,Gurih,Rendah,5.60,57.10,Sedang
+Siang,Kerupuk kemplang panggang ,Goreng,Gurih,Rendah,9.70,76.90,Sedang
+Siang,Kerupuk mie kuning goreng ,Goreng,Gurih,Rendah,0.10,71.30,Sedang
+Siang,Kerupuk udang goreng ,Goreng,Gurih,Rendah,4.70,68.50,Sedang
+Siang,Kue bangket ,Panggang,Manis,Rendah,1.50,80.30,Sedang
+Siang,Lanting getuk ,Goreng,Gurih,Rendah,0.90,80.40,Sedang
+Malam,Mi golosor ,Kuah,Gurih,Rendah,0.20,15.90,Rendah
+Malam,Mie Bendo ,Kuah,Gurih,Rendah,0.30,88.00,Rendah
+Malam,Mie Sagu ,Kuah,Gurih,Rendah,0.20,46.50,Rendah
+Pagi,Papeda ,Kuah,Gurih,Rendah,0.20,14.90,Rendah
+Siang,Serimping talas kebumen ,Goreng,Gurih,Rendah,2.50,69.20,Sedang
+Siang,Ubi batatas ,Kuah,Manis,Rendah,1.10,27.40,Rendah
+Pagi,"Kacang belimbing, Kuah ",Kuah,Gurih,Rendah,16.90,17.50,Rendah
+Siang,"Kacang bogor, goreng ",Goreng,Gurih,Rendah,12.70,58.90,Sedang
+Siang,"Kacang bogor, Kuah ",Kuah,Gurih,Rendah,7.70,27.10,Rendah
+Malam,"Kacang gude, Kuah ",Kuah,Gurih,Rendah,9.00,27.50,Rendah
+Malam,"kacang hijau, Kuah ",Kuah,Gurih,Rendah,8.70,18.30,Rendah
+Malam,"Kacang kedelai, goreng ",Goreng,Gurih,Rendah,32.20,22.90,Sedang
+Siang,"Kacang kedelai, Kuah ",Kuah,Gurih,Rendah,20.20,12.70,Rendah
+Malam,"Kacang merah kering, Kuah ",Kuah,Gurih,Rendah,10.30,28.20,Rendah
+Malam,"Kacang merah segar, Kuah ",Kuah,Gurih,Rendah,10.00,24.70,Rendah
+Malam,"Kacang mete/biji jambu monyet, goreng ",Goreng,Gurih,Rendah,20.40,19.80,Sedang
+Siang,Kacang tanah Kuah dg kulit,Kuah,Gurih,Rendah,13.50,12.80,Sedang
+Siang,"Kacang tanah, goreng ",Goreng,Gurih,Rendah,25.50,25.50,Sedang
+Malam,"Kacang tanah, Kuah ",Kuah,Asin,Rendah,10.60,8.00,Rendah
+Malam,"Kacang tolo, Kuah ",Kuah,Asin,Rendah,10.70,22.60,Rendah
+Siang,Pepea oncom ampas tahu ,Goreng,Gurih,Rendah,5.20,10.60,Rendah
+Pagi,Dodol banjarmasin ,Goreng,Manis,Rendah,2.60,70.00,Rendah
+Siang,Emping (kerupuk melinjo) ,Goreng,Gurih,Rendah,12.00,71.50,Rendah
+Pagi,Emping komak ,Goreng,Gurih,Rendah,17.80,60.70,Rendah
+Pagi,Enting0enting gepuk hello kity ,Goreng,Manis,Rendah,13.60,52.60,Rendah
+Pagi,Enting0enting gepuk kacang tanah ,Goreng,Manis,Rendah,13.30,52.00,Rendah
+Pagi,Enting0enting wijen ,Goreng,Manis,Rendah,18.20,36.80,Rendah
+Pagi,Geplak ,Panggang,Manis,Rendah,1.40,53.60,Rendah
+Pagi,Geplak jahe ,Panggang,Manis,Rendah,3.10,57.70,Rendah
+Siang,Kacang atom ,Panggang,Gurih,Rendah,27.80,28.80,Rendah
+Siang,Kacang goyang ,Goreng,Gurih,Rendah,14.70,44.40,Rendah
+Siang,Kacang negara ,Goreng,Gurih,Rendah,18.40,58.50,Rendah
+Siang,Kacang sukro ,Goreng,Manis,Rendah,8.80,57.70,Rendah
+Siang,Kacang tanah sari ,Goreng,Manis,Rendah,25.50,26.00,Rendah
+Siang,Kembang tahu ,Kuah,Gurih,Rendah,48.90,23.30,Rendah
+Siang,Kembang tahu Kuah ,Kuah,Gurih,Rendah,10.70,4.70,Rendah
+Siang,Keripik oncom ,Goreng,Gurih,Rendah,8.30,42.60,Sedang
+Siang,Keripik tempe ,Goreng,Gurih,Rendah,12.10,41.70,Sedang
+Siang,Keripik tempe abadi besar ,Goreng,Gurih,Rendah,15.80,39.80,Sedang
+Siang,Keripik tempe abadi murni ,Goreng,Gurih,Rendah,40.30,11.60,Sedang
+Siang,Keripik tempe abadi sedang ,Goreng,Gurih,Rendah,12.30,52.40,Sedang
+Siang,Keripik tempe abadi telur ,Goreng,Gurih,Rendah,20.80,40.20,Sedang
+Siang,Kerupik tempe abadi prima ,Goreng,Gurih,Rendah,16.70,42.00,Sedang
+Siang,Kwaci ,Panggang,Gurih,Rendah,30.60,13.80,Sedang
+Siang,Melinjo emping tebal goreng manis ,Goreng,Manis,Rendah,10.00,65.70,Sedang
+Siang,"Melinjo emping tebal, goreng asin ",Goreng,Asin,Rendah,11.10,63.00,Sedang
+Siang,Melinjo emping tipis goreng ,Goreng,Gurih,Rendah,11.50,59.10,Sedang
+Siang,Moon tahu ,Kuah,Gurih,Rendah,8.00,1.30,Rendah
+Siang,Rempeyek kacang tanah ,Goreng,Asin,Rendah,17.50,44.30,Sedang
+Siang,Rempeyek kacang tolo ,Goreng,Asin,Rendah,11.20,59.70,Sedang
+Siang,Rempeyek kacang uci ,Goreng,Asin,Rendah,17.00,50.80,Sedang
+Siang,Tahu goreng ,Goreng,Asin,Rendah,9.70,2.50,Sedang
+Siang,Tahu telur ,Goreng,Gurih,Rendah,12.60,24.60,Sedang
+Siang,"Tempe kedelai murni, goreng ",Goreng,Gurih,Rendah,24.50,10.40,Sedang
+Siang,"Bayam ,Kuah ",Kuah,Gurih,Rendah,1.20,3.70,Rendah
+Siang,"Buncis, Kuah ",Kuah,Gurih,Rendah,2.20,6.40,Rendah
+Siang,"Daun katuk, Kuah ",Kuah,Gurih,Rendah,5.30,9.10,Rendah
+Siang,"Daun kelor, Kuah ",Kuah,Gurih,Rendah,6.10,10.00,Rendah
+Siang,"Daun singkong, Kuah ",Kuah,Gurih,Rendah,3.70,4.80,Rendah
+Siang,"Daun talas, Kuah ",Kuah,Gurih,Rendah,1.30,5.90,Sedang
+Siang,"Kacang panjang, Kuah ",Kuah,Gurih,Rendah,2.30,5.80,Rendah
+Siang,"Kangkung, Kuah ",Kuah,Gurih,Rendah,2.50,3.10,Rendah
+Siang,"Selada, Kuah ",Kuah,Asin,Rendah,2.70,2.90,Rendah
+Siang,"Taoge, goreng ",Goreng,Gurih,Rendah,3.20,14.00,Rendah
+Siang,"Wortel, Kuah ",Kuah,Manis,Rendah,0.70,6.30,Rendah
+Siang,Cammetutu ,Kuah,Gurih,Rendah,3.20,8.70,Sedang
+Pagi,Gado - Gado,Kuah,Gurih,Rendah,6.10,21.00,Sedang
+Pagi,"Gudeg, sayur ",Kuah,Manis,Rendah,3.30,16.00,Sedang
+Siang,Gulai pakis ,Kuah,Gurih,Rendah,4.00,6.00,Sedang
+Siang,Gulai pliek ,Kuah,Gurih,Rendah,7.30,3.20,Rendah
+Siang,"Kaparende, sayur ",Kuah,Gurih,Sedang,2.40,2.60,Rendah
+Siang,"Karedok, sayur ",Kuah,Gurih,Sedang,2.20,14.10,Sedang
+Siang,Keripik bayam ,Goreng,Asin,Rendah,4.90,50.20,Sedang
+Siang,Lilin bungkus gedi ,Panggang,Gurih,Rendah,2.30,5.80,Sedang
+Siang,Olah-olah ,Kuah,Gurih,Rendah,2.10,7.10,Rendah
+Siang,Pelecing kangkung ,Kuah,Gurih,Rendah,2.50,10.00,Sedang
+Malam,Sayur sop ,Kuah,Gurih,Rendah,1.30,1.00,Rendah
+Malam,Sayur umbut kelapa ,Kuah,Gurih,Rendah,5.20,5.10,Rendah
+Malam,Sayur umbut rotan ,Kuah,Gurih,Rendah,5.40,3.10,Sedang
+Malam,Shabu-shabu ,Kuah,Gurih,Rendah,3.20,0.80,Rendah
+Siang,Barongko ,Panggang,Manis,Rendah,3.10,23.50,Rendah
+Malam,Dodol nanas ,Kuah,Manis,Rendah,1.50,80.30,Rendah
+Siang,Getuk pisang ,Kuah,Manis,Rendah,1.10,34.10,Sedang
+Pagi,Keripik lampung ,Goreng,Gurih,Rendah,1.70,69.70,Rendah
+Pagi,Ledre pisang ,Kuah,Manis,Rendah,4.80,84.90,Rendah
+Siang,Loka anjoro ,Goreng,Manis,Rendah,1.10,30.00,Rendah
+Pagi,Rujak aceh ,Segar,Gurih,Sedang,0.40,19.70,Rendah
+Pagi,Sale kesemek ,Goreng,Manis,Rendah,1.10,71.40,Rendah
+Pagi,Sale pisang siam ,Goreng,Manis,Rendah,2.40,66.10,Rendah
+Pagi,"Sale pisang, cilacap ",Goreng,Manis,Rendah,2.30,66.90,Sedang
+Pagi,Sanggara belanda ,Goreng,Manis,Rendah,6.40,38.20,Rendah
+Siang,"Ayam, ampela, goreng ",Goreng,Gurih,Rendah,32.30,9.90,Rendah
+Siang,"Ayam, usus, goreng ",Goreng,Gurih,Rendah,45.20,13.90,Rendah
+Siang,"Bebek, daging, goreng ",Goreng,Gurih,Rendah,24.00,4.50,Sedang
+Siang,Ham ,Panggang,Gurih,Rendah,16.90,0.30,Sedang
+Siang,"Itik alabio, daging, dendeng, mentah ",Goreng,Gurih,Rendah,30.30,18.40,Sedang
+Siang,Kerupuk urat ,Goreng,Gurih,Rendah,53.70,1.20,Sedang
+Siang,"Menjangan, daging, dendeng, mentah ",Goreng,Gurih,Rendah,55.80,22.70,Sedang
+Siang,"Punai, daging, goreng ",Goreng,Gurih,Rendah,26.20,4.40,Sedang
+Siang,"Rusa, daging, dendeng, mentah ",Panggang,Gurih,Rendah,40.50,0.00,Sedang
+Siang,"Sapi, abon ",Panggang,Gurih,Rendah,18.00,59.30,Sedang
+Siang,"Sapi, abon, asli ",Panggang,Gurih,Rendah,14.60,38.60,Sedang
+Siang,"Sapi, daging, dendeng, mentah ",Panggang,Gurih,Rendah,55.00,0.00,Sedang
+Siang,"Sapi, daging, kornet ",Goreng,Gurih,Rendah,16.00,0.00,Rendah
+Siang,"Sapi, hati, sosis (liverworst) ",Goreng,Gurih,Rendah,16.00,3.00,Rendah
+Siang,"Sapi, paru, goreng ",Goreng,Gurih,Rendah,23.90,14.50,Sedang
+Siang,Ulat sagu,Panggang,Gurih,Rendah,11.90,14.90,Rendah
+Siang,"Ayam goreng church texas, dada ",Goreng,Gurih,Rendah,35.20,0.40,Sedang
+Siang,"Ayam goreng church,texas paha ",Goreng,Gurih,Rendah,31.00,1.70,Sedang
+Siang,"Ayam goreng church texas, sayap ",Goreng,Gurih,Rendah,34.00,1.50,Sedang
+Siang,"Ayam goreng kalasan, paha ",Goreng,Gurih,Rendah,37.40,1.30,Rendah
+Siang,"Ayam goreng kentucky, dada ",Goreng,Gurih,Rendah,34.20,0.10,Rendah
+Siang,"Ayam goreng Kentucky, paha ",Goreng,Gurih,Rendah,32.10,1.10,Rendah
+Siang,"Ayam  goreng Kentucky,sayap ",Goreng,Gurih,Rendah,35.90,1.60,Rendah
+Siang,Ayam goreng mbok berek dada ,Goreng,Gurih,Rendah,39.20,1.00,Rendah
+Siang,"Ayam goreng pasundan, dada ",Goreng,Gurih,Rendah,37.90,0.70,Rendah
+Siang,"Ayam goreng pasundan, paha ",Goreng,Gurih,Rendah,33.10,0.30,Rendah
+Siang,"Ayam goreng pioneer, dada ",Goreng,Gurih,Rendah,37.40,0.60,Rendah
+Siang,"Ayam goreng sukabumi, dada ",Goreng,Gurih,Rendah,36.70,1.00,Rendah
+Siang,"Ayam goreng sukabumi, paha ",Goreng,Gurih,Rendah,35.70,0.50,Rendah
+Siang,"Ayam taliwang, masakan ",Goreng,Gurih,Rendah,18.20,2.70,Rendah
+Siang,Beef burger ,Panggang,Asin,Rendah,10.60,32.50,Rendah
+Siang,"Beef teriyaki, masakan ",Panggang,Manis,Sedang,8.60,22.30,Rendah
+Siang,"Beef yakiniku, masakan ",Panggang,Gurih,Sedang,9.80,20.70,Sedang
+Siang,Brongkos ,Kuah,Gurih,Rendah,15.30,12.60,Sedang
+Siang,"Bulgogi, masakan ",Panggang,Manis,Rendah,11.40,1.40,Sedang
+Siang,"Chicken teriyaki, masakan ",Panggang,Manis,Sedang,13.00,7.50,Sedang
+Siang,"Chikiniku, masakan ",Panggang,Gurih,Sedang,9.80,22.80,Rendah
+Siang,"Coto mangkasara, kuda, masakan ",Kuah,Gurih,Sedang,6.80,3.80,Rendah
+Siang,"Coto mangkasara, sapi, masakan ",Kuah,Gurih,Sedang,6.00,1.40,Rendah
+Siang,"Empal (daging) Goreng, masakan ",Goreng,Gurih,Sedang,36.20,10.10,Sedang
+Siang,Gulai kambing ,Kuah,Gurih,Tinggi,4.20,6.20,Sedang
+Siang,"Naan maran sapi, masakan ",Panggang,Gurih,Sedang,38.30,5.10,Sedang
+Siang,"Rawon, masakan ",Kuah,Gurih,Sedang,5.40,4.00,Sedang
+Siang,"Rendang sapi, masakan ",Goreng,Gurih,Sedang,22.60,7.80,Tinggi
+Malam,"RW, anjing, masakan ",Goreng,Gurih,Sedang,24.60,0.90,Sedang
+Malam,"Penyu, serapah, masakan ",Goreng,Gurih,Sedang,13.10,2.20,Sedang
+Malam,"Sie reuboh, masakan ",Kuah,Gurih,Sedang,11.20,11.70,Sedang
+Malam,"Sop buntut, masakan ",Kuah,Gurih,Sedang,7.50,2.20,Sedang
+Malam,"Sop daging sapi, masakan ",Kuah,Gurih,Sedang,5.80,5.30,Sedang
+Malam,"Sop kaki sapi, masakan ",Kuah,Gurih,Sedang,9.00,3.70,Sedang
+Malam,"Sop kambing, masakan ",Kuah,Gurih,Sedang,5.50,1.10,Sedang
+Malam,"Sop konro, masakan ",Kuah,Gurih,Sedang,7.40,4.50,Sedang
+Malam,"Sop saudara, masakan ",Kuah,Gurih,Sedang,7.20,3.90,Sedang
+Malam,"Soto bandung, masakan ",Kuah,Gurih,Sedang,3.90,2.80,Sedang
+Malam,"Soto banjar, masakan ",Kuah,Gurih,Sedang,2.90,3.20,Sedang
+Malam,"Soto betawi, masakan ",Kuah,Gurih,Sedang,2.50,11.50,Sedang
+Malam,"Soto jeroan, masakan ",Kuah,Gurih,Sedang,11.80,1.40,Sedang
+Malam,"Soto kudus, masakan ",Kuah,Gurih,Sedang,2.60,1.80,Sedang
+Malam,"Soto madura, masakan ",Kuah,Gurih,Sedang,3.50,1.30,Sedang
+Malam,"Soto padang, masakan ",Kuah,Gurih,Sedang,5.90,11.00,Sedang
+Malam,"Soto pekalongan, masakan ",Kuah,Gurih,Sedang,3.00,5.10,Sedang
+Malam,"Soto pemalang, masakan ",Kuah,Gurih,Sedang,3.60,3.50,Sedang
+Malam,"Soto sukaraja, masakan ",Kuah,Gurih,Sedang,3.20,9.00,Sedang
+Malam,"Soto sulung, masakan ",Kuah,Gurih,Sedang,2.30,0.00,Sedang
+Malam,"Sukiyaki, masakan ",Kuah,Gurih,Sedang,5.60,12.20,Sedang
+Malam,"Tedong pallu basa, masakan ",Kuah,Gurih,Sedang,10.40,2.80,Sedang
+Siang,"Tinoransa, masakan ",Goreng,Gurih,Sedang,17.70,0.00,Sedang
+Siang,"Bekicot, dendeng, mentah ",Goreng,Gurih,Sedang,48.70,15.80,Sedang
+Siang,"Belut, goreng ",Goreng,Gurih,Sedang,25.90,32.00,Tinggi
+Siang,"Cumi-cumi, goreng ",Goreng,Gurih,Rendah,40.60,0.00,Sedang
+Siang,"Ikan asin, kering ",Goreng,Asin,Sedang,42.00,0.00,Sedang
+Malam,"Ikan bandeng presto, masakan ",Kuah,Gurih,Sedang,17.10,11.30,Sedang
+Siang,"Ikan cakalang asap, mentah ",Panggang,Gurih,Sedang,34.20,1.90,Sedang
+Malam,"Ikan cakalang asin, mentah ",Goreng,Asin,Sedang,36.50,5.50,Tinggi
+Malam,"Ikan calo/ peda, mentah ",Kuah,Gurih,Sedang,11.40,3.80,Sedang
+Malam,"Ikan Gabus asap, mentah ",Panggang,Gurih,Sedang,38.10,21.90,Sedang
+Malam,"Ikan Gabus, kering ",Goreng,Gurih,Sedang,58.00,0.00,Tinggi
+Malam,"Ikan gete, goreng ",Goreng,Gurih,Sedang,23.10,0.20,Sedang
+Malam,"Ikan hiu, kering ",Goreng,Gurih,Sedang,46.30,20.20,Sedang
+Malam,"Ikan katombo, asin ",Goreng,Asin,Sedang,31.70,0.30,Sedang
+Malam,"Ikan kayu, kering ",Goreng,Asin,Sedang,70.70,0.40,Sedang
+Malam,Ikan Mas pepes ,Panggang,Gurih,Sedang,15.20,11.80,Sedang
+Malam,Ikan mujahir goreng ,Goreng,Gurih,Sedang,46.90,0.00,Tinggi
+Malam,Ikan Mujahir pepes ,Panggang,Gurih,Sedang,21.70,0.80,Sedang
+Malam,"Ikan mujahir, dendeng, mentah ",Kuah,Gurih,Sedang,68.30,37.20,Sedang
+Malam,"Ikan peda banjar, mentah ",Kuah,Gurih,Sedang,28.00,2.00,Sedang
+Malam,"Ikan pepetek, mentah ",Kuah,Gurih,Sedang,32.00,2.00,Sedang
+Malam,"Ikan Pindang banjar, mentah ",Kuah,Gurih,Sedang,28.00,1.80,Sedang
+Malam,"Ikan Pindang benggol, mentah ",Kuah,Gurih,Sedang,31.00,0.00,Sedang
+Malam,"Ikan Pindang layang, mentah ",Kuah,Gurih,Sedang,30.00,0.00,Sedang
+Malam,"Ikan Pindang selar, mentah ",Kuah,Gurih,Sedang,27.00,0.00,Sedang
+Malam,"Ikan sale, mentah ",Kuah,Gurih,Sedang,40.20,4.90,Sedang
+Malam,"Ikan sale lais, mentah ",Kuah,Gurih,Sedang,61.30,2.90,Sedang
+Malam,"Ikan saluang, kering, mentah ",Goreng,Gurih,Sedang,34.10,14.60,Sedang
+Malam,"Ikan sanggang, masakan ",Kuah,Gurih,Sedang,21.70,20.70,Sedang
+Siang,"Bouiki ninahu nggaluku, masakan ",Kuah,Gurih,Sedang,7.80,10.80,Sedang
+Siang,Cakalang asar (asap) ,Panggang,Gurih,Sedang,20.10,10.20,Sedang
+Siang,"Dendeng belut, goreng, masakan ",Goreng,Gurih,Sedang,55.70,8.00,Sedang
+Siang,"Dendeng mujahir, goreng, masakan ",Goreng,Gurih,Sedang,74.30,9.20,Sedang
+Siang,Fillet o-fish ,Panggang,Gurih,Sedang,12.30,19.30,Sedang
+Siang,"Gulai ikan, masakan ",Kuah,Gurih,Sedang,16.50,2.50,Sedang
+Siang,"Gulai ikan paya, masakan ",Kuah,Gurih,Sedang,10.00,5.00,Sedang
+Siang,"Gulai keumamah, masakan ",Kuah,Gurih,Sedang,5.90,3.20,Sedang
+Siang,"Gulai tiram, masakan ",Kuah,Gurih,Sedang,9.00,7.80,Sedang
+Siang,"Gurame asem manis, masakan ",Kuah,Manis,Tinggi,12.70,12.70,Sedang
+Siang,"Ikan asar merah, masakan ",Kuah,Gurih,Sedang,17.70,5.60,Sedang
+Siang,"Jambal goreng, masakan ",Goreng,Gurih,Sedang,48.50,2.30,Sedang
+Siang,"Jukku pallu kaloa, masakan ",Kuah,Gurih,Sedang,15.20,8.80,Tinggi
+Siang,"Kaholeo, masakan ",Kuah,Gurih,Sedang,28.70,29.80,Sedang
+Siang,"Model, masakan ",Kuah,Gurih,Sedang,2.20,8.60,Sedang
+Malam,"Mujahir acar kuning, masakan ",Goreng,Manis,Sedang,17.80,12.10,Sedang
+Malam,"Parede baleh, masakan ",Kuah,Gurih,Rendah,10.50,5.50,Sedang
+Siang,"Pempek adaan, masakan ",Goreng,Gurih,Rendah,4.90,27.80,Sedang
+Siang,"Pempek belida, masakan ",Goreng,Gurih,Rendah,4.20,31.60,Sedang
+Siang,"Pempek kapal selam, masakan ",Goreng,Gurih,Rendah,4.50,28.20,Sedang
+Siang,"Pempek kelesan, masakan ",Goreng,Gurih,Rendah,12.30,26.60,Sedang
+Siang,"Pempek kulit, masakan ",Goreng,Gurih,Rendah,5.20,39.10,Sedang
+Siang,"Pempek telur, masakan ",Goreng,Gurih,Rendah,4.70,28.30,Sedang
+Siang,"Pempek tenggiri, masakan ",Goreng,Gurih,Rendah,7.20,33.40,Sedang
+Siang,Pinda ,Kuah,Asin,Sedang,15.90,0.40,Sedang
+Siang,"Pindang kenari, masakan ",Kuah,Gurih,Sedang,9.50,0.00,Sedang
+Siang,"Tekwan, masakan ",Kuah,Gurih,Rendah,1.90,9.40,Sedang
+Siang,"Teri belado, masakan ",Goreng,Gurih,Rendah,23.70,17.50,Sedang
+Siang,"Telur ayam, dadar, masakan ",Goreng,Gurih,Rendah,16.30,1.40,Sedang
+Siang,"Telur bebek, asin, mentah ",Kuah,Asin,Rendah,13.60,4.40,Sedang
+Siang,"Telur bebek, dadar, masakan ",Goreng,Gurih,Rendah,20.00,0.00,Tinggi
+Siang,"Ikan, telur, asin, mentah ",Goreng,Gurih,Rendah,20.70,9.40,Sedang
+Malam,"Bayau mi balu, masakan ",Kuah,Gurih,Rendah,6.00,44.80,Sedang
+Siang,"Cucuru bayau, masakan ",Goreng,Gurih,Rendah,6.80,38.30,Sedang
+Siang,"Kalio telur, masakan ",Kuah,Gurih,Rendah,10.60,9.70,Sedang
+Siang,Udang,Goreng,Asin,Rendah,21.00,1.2,Tinggi
+Malam,Sate Ayam,Panggang,Asin,Rendah,18.00,10.00,Rendah
+Malam,Sate Kelinci,Panggang,Asin,Rendah,20.00,30.00,Sedang
+Siang,Lasagna,Panggang,Asin,Rendah,15.00,31.00,Sedang
+Pagi,Omelet,Goreng,Asin,Rendah,10.00,2.00,Sedang
+Pagi,Tempe goreng,Goreng,Asin,Rendah,19.00,14.00,Rendah
+Siang,Tempe orek,Goreng,Asin,Rendah,18.00,15.00,Sedang
+Malam,Tempe bacem,Goreng,Asin,Rendah,17.00,16.00,Rendah
+Pagi,Roti isi daging,Goreng,Asin,Rendah,12.00,30.00,Sedang
+Malam,Martabak telur,Goreng,Asin,Rendah,15.00,20.00,Sedang
+Pagi,Bubur ayam,Kuah,Asin,Rendah,7.00,25.00,Rendah
+Malam,Sup ayam,Kuah,Asin,Rendah,12.00,8.00,Rendah
+Malam,Soto ayam,Kuah,Asin,Rendah,10.00,7.00,Rendah
+Siang,Lontong sayur,Kuah,Asin,Rendah,8.00,30.00,Rendah
+Pagi,Bakwan jagung,Goreng,Asin,Rendah,5.00,20.00,Sedang
+Malam,Kebab daging,Panggang,Asin,Rendah,18.00,40.00,Sedang
+Pagi,Pizza pepperoni,Panggang,Asin,Rendah,12.00,36.00,Sedang
+Siang,Burger keju,Panggang,Asin,Rendah,15.00,40.00,Sedang
+Pagi,Sarden kaleng,Kuah,Asin,Rendah,20.00,10.00,Sedang
+Malam,Kwetiau goreng,Goreng,Asin,Rendah,10.00,50.00,Sedang
+Pagi,Nasi kuning,Goreng,Asin,Rendah,8.00,42.00,Rendah
+Pagi,Nasi uduk,Goreng,Asin,Rendah,6.00,40.00,Rendah
+Siang,Capcay,Kuah,Asin,Rendah,8.00,20.00,Rendah
+Pagi,Nugget ayam,Goreng,Asin,Sedang,10.00,15.00,Tinggi
+Pagi,Bubur kacang ijo,Kuah,Manis,Rendah,5.00,30.00,Rendah
+Siang,Coto Makassar,Kuah,Asin,Rendah,25.00,10.00,Sedang
+Malam,Sayur lodeh,Kuah,Asin,Rendah,8.00,20.00,Rendah
+Pagi,Sop buntut,Kuah,Asin,Rendah,15.00,5.00,Sedang
+Malam,Nasi rawon,Kuah,Asin,Rendah,18.00,40.00,Sedang
+Siang,Ayam panggang,Panggang,Asin,Rendah,25.00,5.00,Rendah
